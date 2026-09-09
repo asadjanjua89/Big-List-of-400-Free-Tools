@@ -493,3 +493,4 @@
 - [App vs. Website: 20](http://howmuchtomakeanapp.com/build-a-website-vs-app/) Should you build an app or website?
 - [Pitcherific: 8](http://pitcherific.com/) Pitcherific helps you create, train, and improve your pitch.
 - [Startup Equity Calculator: 16](http://startupequity.io/) Figure out how much equity to grant new hires in seconds.
+- [ToolsNook](https://www.toolsnook.com/) Free calculators for VAT, margin, break-even and freelance rates — built for small businesses, no signup required.
